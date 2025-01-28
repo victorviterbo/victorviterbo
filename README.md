@@ -19,6 +19,7 @@ Development: Algorithms, Memory Management, Data Structures, System-Level Progra
 💡 Explore my repositories to follow my progress, and feel free to connect or collaborate!
 
 📫 Contact: victor.viterbo@alumni.epfl.ch
+
 🌐 LinkedIn: https://www.linkedin.com/in/victor-viterbo-b951b3193/
 <!---
 - 👋 Hi, I’m @victorviterbo
