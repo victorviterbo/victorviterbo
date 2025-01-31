@@ -10,11 +10,11 @@ My journey at 42Lausanne has equipped me with a hands-on approach to learning an
 
 🛠️ Skills
 
-Programming Languages: Python, C, Bash, SQL
+Programming Languages: Python, C, C++, Bash, SQL, Fortran
 
 Tools: UNIX, GitHub, Git, Makefile
 
-Development: Algorithms, Memory Management, Data Structures, System-Level Programming
+Thechnologies and Paradigms: IA, Data Sciences, Algorithms, Database Pipelines and Curation
 
 💡 Explore my repositories to follow my progress, and feel free to connect or collaborate!
 
