@@ -1,8 +1,8 @@
-Victor Viterbo | 👨‍🔬 MSc in Chemistry | 👨‍💻 Digital Technology Architect (42Lausanne)
+Victor Viterbo | MSc in Chemistry | Digital Technology Architect (42Lausanne)
 
-🌟 Welcome to my GitHub! This space showcases my journey as a student at 42Lausanne, where I tackle a variety of coding projects that challenge me to think creatively and develop efficient solutions. My focus is on mastering core programming concepts, collaborating on projects, and pushing the boundaries of software development.
+Welcome to my GitHub! This space showcases my journey as a student at 42Lausanne, where I tackle a variety of coding projects that challenge me to think creatively and develop efficient solutions. My focus is on mastering core programming concepts, collaborating on projects, and pushing the boundaries of software development.
 
-🧑‍🎓 About Me
+About Me
 
 Hi! I’m Victor, a Digital Technology Architect in training at 42Lausanne. With a solid background in computational chemistry and programming, I’m diving deeper into computer science through projects that hone problem-solving and algorithmic thinking.
 
