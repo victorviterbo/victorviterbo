@@ -18,9 +18,15 @@ Thechnologies and Paradigms: IA, Data Sciences, Algorithms, Database Pipelines a
 
 💡 Explore my repositories to follow my progress, and feel free to connect or collaborate!
 
+
 📫 Contact: victor.viterbo@alumni.epfl.ch
 
 🌐 LinkedIn: https://www.linkedin.com/in/victor-viterbo-b951b3193/
+
+
+👀 Or checkout my past publications !
+🧬 https://acs.digitellinc.com/p/s/atlasx-a-computational-map-for-the-exploration-of-biochemical-space-482641
+🤖 https://pubs.acs.org/doi/10.1021/acs.iecr.2c00355
 <!---
 - 👋 Hi, I’m @victorviterbo
 - 👀 I’m interested in ...
