@@ -25,6 +25,8 @@ Thechnologies and Paradigms: IA, Data Sciences, Algorithms, Database Pipelines a
 
 
 👀 Or checkout my past publications !
+
+
 🧬 https://acs.digitellinc.com/p/s/atlasx-a-computational-map-for-the-exploration-of-biochemical-space-482641
 
 🤖 https://pubs.acs.org/doi/10.1021/acs.iecr.2c00355
