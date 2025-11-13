@@ -14,7 +14,7 @@ Programming Languages: Python, C, C++, Bash, SQL, Fortran
 
 Tools: UNIX, GitHub, Git, Makefile
 
-Technologies and Paradigms: IA, Data Sciences, Algorithms, Database Pipelines and Curation
+Technologies and Paradigms: Algorithms, IA, Data Sciences, Database Pipelines and Curation
 
 💡 Explore my repositories to follow my progress, and feel free to connect or collaborate!
 
