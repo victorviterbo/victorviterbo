@@ -4,13 +4,13 @@ Welcome to my GitHub! This space showcases my journey as a student at 42Lausanne
 
 About Me
 
-Hi! I’m Victor, a Digital Technology Architect in training at 42Lausanne. With a solid background in computational chemistry and programming, I’m diving deeper into computer science through projects that hone problem-solving and algorithmic thinking.
+I’m Victor, a Digital Technology Architect in training at 42Lausanne. With a solid background in computational chemistry and programming, I’m diving deeper into computer science through projects that hone problem-solving and algorithmic thinking.
 
 My journey at 42Lausanne has equipped me with a hands-on approach to learning and a passion for exploring innovative solutions.
 
 🛠️ Skills
 
-Programming Languages: Python, C, C++, Bash, SQL, Fortran
+Programming Languages: Python, C, C++, Bash, SQL, Fortran, Cobol
 
 Tools: UNIX, GitHub, Git, Makefile
 
